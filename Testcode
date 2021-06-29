@@ -187,9 +187,6 @@ http://rec2.distv.net:80/aurora/123456/139
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="TV INDONESIA",O Channel
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="TV INDONESIA", Nusantara TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
-
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="DOKUMENTER", National Geographic 
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 
@@ -210,3 +207,15 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="FILM", FOX LIFE HD
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png" group-title="TV INDONESIA",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/rri.png" group-title="TV INDONESIA", RRI NET
+http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="TV INDONESIA", JITV
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="TV INDONESIA",Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8

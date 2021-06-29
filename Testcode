@@ -196,6 +196,15 @@ http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1  group-title="DOKUMENTER", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="FILM", Thrill 
+http://rr2.dens.tv/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mycn.png" group-title="FILM", MyCinema 
+http://rr.dens.tv/h/h90/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-id="sgem" tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="FILM", Sony GEM TV
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="FILM", HBO HD
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 
@@ -219,3 +228,6 @@ http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="TV INDONESIA",Nusantara TV
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+
+#EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="CHANEL LUAR NEGERI", Sony One
+http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8

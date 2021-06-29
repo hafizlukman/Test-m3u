@@ -20,9 +20,7 @@ http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 #EXTINF:-1  group-title="CHANEL PAPA",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-wSAJw7yCiN0/Tc_j5JhOm1I/AAAAAAAAA-Q/S7nyqarjNmQ/s1600/Indosiar+09.jpg" group-title="CHANEL NENEK",INDOSIAR https://cdn-production-thumbor-vidio.akamaized.net/iCK1LEwF_Id8Zemlc84HDAzkywU=/830x460/filters:quality(80)/vidio-web-prod-livestreaming/uploads/livestreaming/blocking_banner_image/783/49b007.jpg
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="CHANEL NENEK", INDOSIAR http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="RIYAN.fc632bc801149ed9c3433423c9c03dac.SHINTA" tvg-name" Indosiar" group-title="CHANEL NENEK", Indosiar SBIPTV
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/gtv.png" group-title="CHANEL NENEK",GTV https://etslive-2-vidio-com.akamaized.net/exp=1624982430~acl=/hls-p/ingest_778_*/*~hmac=da7f63d2e6ef17697447fcc013df2520f8dec2badfe1a6afb160eccc95f39b54/hls-p/ingest_778_360p/index.m3u8

@@ -4,3 +4,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="Nasional", MNC
 http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
+
+#EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
+https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8

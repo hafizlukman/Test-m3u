@@ -19,3 +19,5 @@ http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 
 #EXTINF:-1  group-title="CHANEL PAPA",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-wSAJw7yCiN0/Tc_j5JhOm1I/AAAAAAAAA-Q/S7nyqarjNmQ/s1600/Indosiar+09.jpg" group-title="CHANEL NENEK",INDOSIAR https://cdn-production-thumbor-vidio.akamaized.net/iCK1LEwF_Id8Zemlc84HDAzkywU=/830x460/filters:quality(80)/vidio-web-prod-livestreaming/uploads/livestreaming/blocking_banner_image/783/49b007.jpg

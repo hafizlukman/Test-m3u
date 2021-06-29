@@ -7,3 +7,15 @@ http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
 
 #EXTINF:-1 group-title="LIVE EURO 2020" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
 https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="Nasional", RCTI
+http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="DP@USEETV", NAT GEO WILD
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
+
+#EXTINF:-1  group-title="Knowledge",History
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+
+#EXTINF:-1  group-title="Knowledge",Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8

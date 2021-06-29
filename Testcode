@@ -162,3 +162,20 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="TV INDONESIA",Mytv
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
 
+#EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="ANAK ANAK", NICK (ASIA) 
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="ANAK ANAK", DISNEY CHANNEL (ID)
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="ANAK ANAK", DISNEY CHANNEL
+http://rec2.distv.net:80/aurora/123456/138
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="ANAK ANAK", DISNEY JR (ID)
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="ANAK ANAK", M Kidz 
+http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="ANAK ANAK", DISNEY JR 
+http://rec2.distv.net:80/aurora/123456/139

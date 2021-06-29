@@ -110,11 +110,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.0a3eb3e2847f22d0cf4185db8b28141e.SHINTA" tvg-name" Trans7" group-title="TV INDONESIA", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarthHD" group-title="DOKUMENTER" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
-http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DOKUMENTER", BBC EARTH ID
 http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
 
@@ -124,8 +119,8 @@ http://goldenlivektv.com/Comot_Lagi_Bae/Gtv_channel_ktv.m3u8
 #EXTINF:-1, group-title="TV INDONESIA" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XO2UZvzbejnywcM2yiS7QjX5r3Y=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/5da027.png" tvg-id="RIYAN.4ebe4df57e73e0e1a91bbac8271e717a.SHINTA" tvg-name" SCTV" group-title="TV INDONESIA", SCTV
-http://nonton.wap.sh/id/009.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="TV INDONESIA",SCTV HD
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="TV INDONESIA", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
@@ -152,5 +147,15 @@ http://gpc.my.id/vidio/beritasatu.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="TV INDONESIA",Kompas TV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="TV INDONESIA", 31. JTV
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="TV INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+
+#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="TV INDONESIA",JAK TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="TV INDONESIA",Daai TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="TV INDONESIA",Mytv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
+

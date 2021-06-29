@@ -23,4 +23,6 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="RIYAN.fc632bc801149ed9c3433423c9c03dac.SHINTA" tvg-name" Indosiar" group-title="CHANEL NENEK", Indosiar SBIPTV
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/gtv.png" group-title="CHANEL NENEK",GTV https://etslive-2-vidio-com.akamaized.net/exp=1624982430~acl=/hls-p/ingest_778_*/*~hmac=da7f63d2e6ef17697447fcc013df2520f8dec2badfe1a6afb160eccc95f39b54/hls-p/ingest_778_360p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="CHANEL NENEK", iNEWS
+http://gpc.my.id/vidio/inews.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347

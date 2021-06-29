@@ -88,6 +88,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="FILM", Galaxy
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8NMW8jT/dian.png" group-title="TV INDONESIA",BETV
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="FILM", Galaxy Premium 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
 
@@ -145,3 +148,9 @@ http://rr2.dens.tv/s/s105/index2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="TV INDONESIA",BERITA SATU HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
 http://gpc.my.id/vidio/beritasatu.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="TV INDONESIA",Kompas TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="TV INDONESIA", 31. JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8

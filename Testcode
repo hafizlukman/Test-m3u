@@ -94,6 +94,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&s
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="ANAK ANAK", Animax 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/babyfirst.png" group-title="ANAK ANAK", Baby First 
+https://mkctv.my.id/jarwo/cucok.m3u8?id=babyfirst&bandwidth=b894100&sync=0
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="CHANEL LUAR NEGERI", Ctiasia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 

@@ -161,6 +161,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
 http://gpc.my.id/vidio/beritasatu.m3u8
 
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/edukasi.png"group-title="TV INDONESIA", TV EDUKASI
+http://goldenlivektv.com/Kontol/Channel_Tvedukasi.m3u8
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="TV INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 
@@ -190,6 +193,9 @@ http://rec2.distv.net:80/aurora/123456/139
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="TV INDONESIA",O Channel
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indishoping.png" group-title="TV INDONESIA", Indihome Shopping
+https://cdn09jtedge.useetv.com/joss/130/indishopping/chunklist_w1806555735_b1004100_sleng.m3u8?enc=rGCvF_2TFRBg6-WeJ4Uxog&uid=ZmU2MWU4ZjE4MjAxMjQ0M2FjOWRjZjg1NDE1NDU4OGM=&exp=1625059697 
 
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="DOKUMENTER", National Geographic 
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8

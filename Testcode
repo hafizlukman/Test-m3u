@@ -1,12 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="TV INDONESIA",TRANS TV 
+https://etslive-2-vidio-com.akamaized.net/exp=1625067020~acl=/hls-b/ingest_733_*/*~hmac=ba1ffa59b82b5f47fd93bf2a05c75479dbaeb0d234f0854b086cfa318382b617/hls-b/ingest_733_480p/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/trans7.png" group-title="TV INDONESIA",TRANS 7
+https://etslive-2-vidio-com.akamaized.net/exp=1625066952~acl=/hls-b/ingest_734_*/*~hmac=3882fc090aed18bed5f855c4046b13d434cc27ea9a543dedbae690d7729ea030/hls-b/ingest_734_480p/index.m3u8
+
 #EXTINF:-1, group-title="TV INDONESIA" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="TV INDONESIA", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.0a3eb3e2847f22d0cf4185db8b28141e.SHINTA" tvg-name" Trans7" group-title="TV INDONESIA", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="TV INDONESIA", MNC
 http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
@@ -60,19 +61,19 @@ http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="FILM", AXN 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2",UseeSports2 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.4e732ced3463d06de0ca9a15b6153677.Coday" tvg-name"[CODAY] Champion TV 1 _USEETV",Champion TV 1 _USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.4e732ced3463d06de0ca9a15b6153677.Coday" tvg-name"[CODAY] Champion TV 1",Champion TV 1 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sport 1 _USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1",Fox Sport 1 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.c0c7c76d30bd3dcaefc96f40275bdc0a.Coday" tvg-name"[CODAY] Fox Sport 2 _USEETV",Fox Sport 2 _USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.c0c7c76d30bd3dcaefc96f40275bdc0a.Coday" tvg-name"[CODAY] Fox Sport 2",Fox Sport 2 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3 _USEETV",Fox Sport 3 _USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3",Fox Sport 3 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 
 
@@ -244,5 +245,3 @@ http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 #EXTINF:-1 group-title="CHANEL LUAR NEGERI",Warner TV
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/23/1689208654.jpg" group-title="TV INDONESIA",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1625066750~acl=/hls-b/ingest_204_*/*~hmac=7af8fdb45962bbbf5d6d6359e3b66735eb536a496e5a531f0a95407b2ba0a373/hls-b/ingest_204_480p/index.m3u8

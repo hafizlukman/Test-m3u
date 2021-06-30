@@ -18,8 +18,8 @@ https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="TV INDONESIA", RCTI FTA
 http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="TV INDONESIA", GTV
-http://goldenlivektv.com/Comot_Lagi_Bae/Gtv_channel_ktv.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/gtv.png" group-title="TV INDONESIA",GTV
+https://etslive-2-vidio-com.akamaized.net/exp=1625067019~acl=/hls-p/ingest_778_*/*~hmac=7d98abda0e28cfcd907154b37821587ed0e32c591ccce4f7b61f2c3c4cc0cd15/hls-p/ingest_778_360p/index.m3u8
 
 #EXTINF:-1  group-title="DOKUMENTER",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8

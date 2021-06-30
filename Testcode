@@ -118,9 +118,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&s
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="ANAK ANAK", Animax 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/babyfirst.png" group-title="ANAK ANAK", Baby First 
-https://mkctv.my.id/jarwo/cucok.m3u8?id=babyfirst&bandwidth=b894100&sync=0
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="CHANEL LUAR NEGERI", Ctiasia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 
@@ -208,14 +205,8 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="ANAK ANAK", DISNEY CHANNEL (ID)
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="ANAK ANAK", DISNEY CHANNEL
-http://rec2.distv.net:80/aurora/123456/138
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="ANAK ANAK", DISNEY JR (ID)
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="ANAK ANAK", DISNEY JR 
-http://rec2.distv.net:80/aurora/123456/139
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="TV INDONESIA",O Channel
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8

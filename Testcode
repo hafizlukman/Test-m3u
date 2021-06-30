@@ -243,3 +243,6 @@ http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 
 #EXTINF:-1 group-title="CHANEL LUAR NEGERI",Warner TV
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/23/1689208654.jpg" group-title="TV INDONESIA",SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1625066750~acl=/hls-b/ingest_204_*/*~hmac=7af8fdb45962bbbf5d6d6359e3b66735eb536a496e5a531f0a95407b2ba0a373/hls-b/ingest_204_480p/index.m3u8

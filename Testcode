@@ -2,9 +2,6 @@
 #EXTINF:-1, group-title="TV INDONESIA" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",MASAK-MASAK (AFN)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="TV INDONESIA",TRANS TV 
-https://etslive-2-vidio-com.akamaized.net/exp=1625067020~acl=/hls-b/ingest_733_*/*~hmac=ba1ffa59b82b5f47fd93bf2a05c75479dbaeb0d234f0854b086cfa318382b617/hls-b/ingest_733_480p/index.m3u8 
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="TV INDONESIA", TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
@@ -21,7 +18,7 @@ http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="TV INDONESIA",RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1625164213~acl=/hls-b/ingest_665_*/*~hmac=431fd15737046255ed82824ad3cce21e4e1c52b35fcc0e82dbd80cf9df0e227b/hls-b/ingest_665_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="TV INDONESIA", GTV (x)
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="TV INDONESIA", GTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 
 #EXTINF:-1  group-title="DOKUMENTER",Animal Planet

@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1, group-title="TV INDONESIA",HAFIZ LUKMAN IPTV PLAYLIST GRATIS, SILAHKAN DIBAGIKAN, JANGAN DIPERJUAL BELIKAN
+http://123.456.789.012/cubocubo.m3u
+
 #EXTINF:-1, group-title="TV INDONESIA" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",MASAK-MASAK (AFN)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 
@@ -14,7 +18,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1625164213~acl=/hls-b/ingest_665_*
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="TV INDONESIA", GTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="Nasional", MNC
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="TV INDONESIA", MNC TV (FTA)
 http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
 #EXTINF:-1  group-title="DOKUMENTER",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8

@@ -12,9 +12,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.0a3eb3e2847f22d0cf4185db8b28141e.SHINTA" tvg-name" Trans7" group-title="TV INDONESIA", Trans 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="TV INDONESIA",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1625164213~acl=/hls-b/ingest_665_*/*~hmac=431fd15737046255ed82824ad3cce21e4e1c52b35fcc0e82dbd80cf9df0e227b/hls-b/ingest_665_480p/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="TV INDONESIA",RCTI https://etslive-2-vidio-com.akamaized.net/exp=1625256015~acl=/hls-b/ingest_665_*/*~hmac=3e0cef9ac212ad29d633a1e512503e1991887c84bdd69fad55265c4ee3240e27/hls-b/ingest_665_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="TV INDONESIA", GTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 
@@ -214,8 +212,8 @@ http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 http://gpc.my.id/usee/trans7.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="TV INDONESIA",MNC TV (Vidio)
-https://etslive-2-vidio-com.akamaized.net/exp=1625202015~acl=/hls-p/ingest_870_*/*~hmac=0b4cd1e54934bde1a2b43715628df90240b11354578e6e06500cdf14b3d9f7e9/hls-p/ingest_870_360p/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="TV INDONESIA",MNCTV (Vidio)
+https://etslive-2-vidio-com.akamaized.net/exp=1625256016~acl=/hls-p/ingest_870_*/*~hmac=489a1d1e188faee63a69f7f72dd6ba655613f215a10cb7f0595b20ca7895f922/hls-p/ingest_870_360p/index.m3u8
 
 #EXTINF:-1 group-title="TV INDONESIA",BETV (BENGKULU)
 http://122.248.43.138:1935/ch3/myStream/live.m3u8

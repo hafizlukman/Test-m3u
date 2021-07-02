@@ -63,6 +63,9 @@ http://210.210.155.35/session/244787a4-8f64-11eb-b4f6-8e4b932c4759/uq2663/h/h155
 #EXTINF:-1 group-title="OLAHRAGA",SKY SPORTS F1
 http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="OLAHRAGA", DAZN F1
+http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2",USEE SPORTS 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 

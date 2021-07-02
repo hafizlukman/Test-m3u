@@ -3,6 +3,8 @@
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="TV INDONESIA",HAFIZ LUKMAN IPTV PLAYLIST GRATIS  SILAHKAN DIBAGIKAN JANGAN DIPERJUAL BELIKAN
 http://123.456.789.012/cubocubo.m3u
 
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="TV INDONESIA",RCTI https://etslive-2-vidio-com.akamaized.net/exp=1625256015~acl=/hls-b/ingest_665_*/*~hmac=3e0cef9ac212ad29d633a1e512503e1991887c84bdd69fad55265c4ee3240e27/hls-b/ingest_665_480p/index.m3u8
 #EXTINF:-1, group-title="TV INDONESIA" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",MASAK-MASAK (AFN)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 

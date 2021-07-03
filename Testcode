@@ -52,6 +52,9 @@ http://rr2.dens.tv/s/s105/index2.m3u8
 #EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="ANAK ANAK", M Kidz 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="ANAK ANAK", Baby First 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="FILM", AXN 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 

@@ -3,10 +3,10 @@
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="TV INDONESIA",HAFIZ LUKMAN IPTV PLAYLIST GRATIS  SILAHKAN DIBAGIKAN JANGAN DIPERJUAL BELIKAN
 http://123.456.789.012/cubocubo.m3u
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="TV INDONESIA", TRANS TV HD
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="TV INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.0a3eb3e2847f22d0cf4185db8b28141e.SHINTA" tvg-name" Trans7" group-title="TV INDONESIA", Trans 7 HD
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.0a3eb3e2847f22d0cf4185db8b28141e.SHINTA" tvg-name" Trans7" group-title="TV INDONESIA", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="TV INDONESIA", GTV
@@ -15,11 +15,11 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="TV INDONESIA", MNC TV (FTA)
 http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="TV INDONESIA", 5. RCTI HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="TV INDONESIA",RCTI
 http://gpc.my.id/vidio/rcti.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
 
-#EXTINF:-1  group-title="DOKUMENTER",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="DOKUMENTER",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="DOKUMENTER", Nat Geo Wild
@@ -31,7 +31,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=
 #EXTINF:-1  group-title="DOKUMENTER",History
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="RIYAN.fc632bc801149ed9c3433423c9c03dac.SHINTA" tvg-name" Indosiar" group-title="TV INDONESIA", Indosiar
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="RIYAN.fc632bc801149ed9c3433423c9c03dac.SHINTA" tvg-name" Indosiar" group-title="TV INDONESIA", INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="TV INDONESIA",SCTV HD
@@ -58,10 +58,10 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.postimg.cc/T3RrNN8k/SINEMA-INDONESIA.png" group-title="FILM",SINEMA INDONESIA
 http://210.210.155.35/session/244787a4-8f64-11eb-b4f6-8e4b932c4759/uq2663/h/h155/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA",SKY SPORTS F1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="OLAHRAGA",SKY SPORTS F1
 http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA", DAZN F1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="OLAHRAGA", DAZN F1
 http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2",USEE SPORTS 2
@@ -216,10 +216,13 @@ http://gpc.my.id/usee/trans7.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="TV INDONESIA",MNCTV (Vidio)
 https://etslive-2-vidio-com.akamaized.net/exp=1625256016~acl=/hls-p/ingest_870_*/*~hmac=489a1d1e188faee63a69f7f72dd6ba655613f215a10cb7f0595b20ca7895f922/hls-p/ingest_870_360p/index.m3u8
 
-#EXTINF:-1 group-title="TV INDONESIA",BETV (BENGKULU)
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.29e03c8800185dc398d8a2f84ba56b34.SHINTA" tvg-name" NET TV" group-title="TV INDONESIA", NET TV (SD)
+http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="TV INDONESIA",BETV (BENGKULU)
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/edukasi.png"group-title="TV INDONESIA", TV EDUKASI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg"group-title="TV INDONESIA", TV EDUKASI
 http://goldenlivektv.com/Kontol/Channel_Tvedukasi.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/elshinta.png" group-title="TV INDONESIA",ELSHINTA
@@ -264,7 +267,7 @@ http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="DOKUMENTER", Nat Geo People
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 
-#EXTINF:-1  group-title="DOKUMENTER", Bisnet Adventure 4K
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="DOKUMENTER", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="FILM", Thrill 
@@ -309,9 +312,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 #https://radenroro.net/RHS/homempd.m3u8?channel=eatgo
 #http://bonev2.xyz/playlist/usee-eatgo-new-bonetv.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.29e03c8800185dc398d8a2f84ba56b34.SHINTA" tvg-name" NET TV" group-title="TV INDONESIA", NET TV (x)
-http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="CHANEL LUAR NEGERI", Sony One
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8

@@ -64,6 +64,10 @@ http://210.210.155.35/session/244787a4-8f64-11eb-b4f6-8e4b932c4759/uq2663/h/h155
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="FILM",Citra Bioskop 
 http://gpc.my.id/vidio/citra-bioskop.m3u8
 
+#EXTINF:-1 tvg-id="citradrama" tvg-name="tes" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="FILM", Citra Drama
+http://gpc.my.id/vidio/citra-drama.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradrama&bandwidth=default&sync=0
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="OLAHRAGA",SKY SPORTS F1
 http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 
@@ -239,7 +243,8 @@ http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg"group-title="TV INDONESIA", TV EDUKASI
-http://goldenlivektv.com/Kontol/Channel_Tvedukasi.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvedukasi&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/elshinta.png" group-title="TV INDONESIA",ELSHINTA
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8

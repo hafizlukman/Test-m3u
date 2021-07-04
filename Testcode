@@ -230,7 +230,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://gpc.my.id/usee/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="TV INDONESIA",MNCTV (Vidio)
-https://etslive-2-vidio-com.akamaized.net/exp=1625256016~acl=/hls-p/ingest_870_*/*~hmac=489a1d1e188faee63a69f7f72dd6ba655613f215a10cb7f0595b20ca7895f922/hls-p/ingest_870_360p/index.m3u8
+http://gpc.my.id/vidio/mnc.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.29e03c8800185dc398d8a2f84ba56b34.SHINTA" tvg-name" NET TV" group-title="TV INDONESIA", NET TV (SD)
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8

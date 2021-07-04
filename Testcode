@@ -61,6 +61,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.postimg.cc/T3RrNN8k/SINEMA-INDONESIA.png" group-title="FILM",SINEMA INDONESIA
 http://210.210.155.35/session/244787a4-8f64-11eb-b4f6-8e4b932c4759/uq2663/h/h155/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="FILM",Citra Bioskop 
+http://gpc.my.id/vidio/citra-bioskop.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="OLAHRAGA",SKY SPORTS F1
 http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 
@@ -130,6 +133,9 @@ http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 #http://bonev2.xyz/playlist/usee-duniaanak-new-bonetv.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qPsr3S6/Horee-Logo.jpg" group-title="ANAK ANAK",Horee 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="ANAK ANAK", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
@@ -138,6 +144,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-id="" tvg-name="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="ANAK ANAK",CARTOON NETWORK
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="ANAK ANAK", Boomerang 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
+http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="ANAK ANAK", Nick Junior
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="ANAK ANAK", Animax 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0

@@ -16,8 +16,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",RCTI
-http://gpc.my.id/vidio/rcti.m3u8
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="DOKUMENTER",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8

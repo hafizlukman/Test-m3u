@@ -25,7 +25,7 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="DOKUMENTER", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1  group-title="DOKUMENTER",History
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="DOKUMENTER",History
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", INDOSIAR
@@ -71,6 +71,9 @@ http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="OLAHRAGA", DAZN F1
 http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="OLAHRAGA", ESPN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2",USEE SPORTS 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
@@ -105,13 +108,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?id=eroz
 #EXTINF:-1 tvg-id="Erz.ufc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbk9tcag4U9ryrBGFUMDbeBcmDCRH6wxrTBA&usqp=CAU" group-title="OLAHRAGA",UFC NETWORK
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_brebes.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Sky 1 Racing
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg",Sky 1 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Sky 2 Racing
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg",Sky 2 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",EDGE SPORT HD
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg",EDGE SPORT HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="CHANEL LUAR NEGERI", Blue ant entertainmet
@@ -324,14 +327,14 @@ http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143
 #EXTINF:-1 group-title="DOKUMENTER",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="CHANEL LUAR NEGERI",TLC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="CHANEL LUAR NEGERI",TLC
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANEL LUAR NEGERI",Warner TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="CHANEL LUAR NEGERI",Warner TV
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANEL LUAR NEGERI", KPOP LIVE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="CHANEL LUAR NEGERI", KPOP LIVE
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
 
-#EXTINF:-1 group-title="CHANEL LUAR NEGERI",Channel V HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="CHANEL LUAR NEGERI",Channel V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8

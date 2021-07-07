@@ -189,8 +189,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", iNEWS
-http://gpc.my.id/vidio/inews.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",TVRI
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8

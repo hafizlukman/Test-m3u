@@ -36,6 +36,9 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",SCTV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",SCTV test1
+http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
 

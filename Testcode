@@ -220,6 +220,9 @@ https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RCTI (FTA)
 http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RCTI (metube)
+https://cdn-livetv-studio.metube.id/rcti.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS 7 (MotoGP)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 http://gpc.my.id/usee/trans7.m3u8

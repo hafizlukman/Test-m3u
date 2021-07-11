@@ -39,7 +39,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RTV
 http://210.210.155.35/session/edab62e0-e258-11eb-bc1c-c81f66f89318/qwr9ew/s/s12/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", NET TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", NET TV
 https://streaming.useetv.com/joss/133/net/playlist.m3u8?enc=etMDTHEotqZ-OffZ2eoQlw&exp=1626016844&encp=fiLv864k7bnRGhWh7uIU3w&expp=1626025544
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", ANTV 

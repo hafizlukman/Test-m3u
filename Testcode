@@ -132,6 +132,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
 http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 #http://rv.imax.re:80/pP6gGMx2m4/ypcVG7N4x6/82426
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Lfqxhc/AKARAM-KIDS.png" group-title="ANAK ANAK",Akaram Kids
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
 #EXTINF:-1 tvg-id="duniaanak" tvg-logo="https://i.postimg.cc/PJmtbJ9Y/logo-duniaanak-big1.png" group-title="ANAK ANAK",Dunia Anak
 #https://fikrulmkc.my.id/bagus/usee-duniaanak.m3u8
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==duniaanak&b=15&c=duniaanak

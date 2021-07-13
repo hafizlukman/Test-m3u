@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS TV [D]
-http://210.210.155.35/session/e667d480-e255-11eb-a1dc-c81f66f89318/x6bnqe/s/s252/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="Test group", testusee1
+https://cdn09jtedge.useetv.com/joss/133/trans7/chunklist_w1983303178_b894100_sleng.m3u8?enc=gPnFYQZD_BRyYKBcIChMVw&uid=&exp=1626190555

@@ -361,6 +361,9 @@ http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143
 #EXTINF:-1 group-title="DOKUMENTER",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="DOKUMENTER", Smithsonian (Vidio)
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6550
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="DOKUMENTER", Discovery Channel 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=disco
 

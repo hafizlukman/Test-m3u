@@ -152,8 +152,16 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #http://bonev2.xyz/playlist/usee-duniaanak-new-bonetv.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qPsr3S6/Horee-Logo.jpg" group-title="ANAK ANAK",Horee 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qPsr3S6/Horee-Logo.jpg" group-title="ANAK ANAK",Horee!
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="ANAK ANAK", Hip Hip Horee!
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-7052
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="ANAK ANAK", Zoo Moo
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6533
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="ANAK ANAK", DaVinci
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6549
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="ANAK ANAK", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
@@ -352,6 +360,9 @@ http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143
 
 #EXTINF:-1 group-title="DOKUMENTER",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="DOKUMENTER", Discovery Channel 
+https://home-tv.web.id/RHS/youtubempd.m3u8?channel=disco
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="CHANEL LUAR NEGERI",TLC
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8

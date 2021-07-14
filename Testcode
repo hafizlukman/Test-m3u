@@ -27,9 +27,6 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="DOKUMENTER",History
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 
-#EXTINF:-1, group-title="DOKUMENTER" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD 
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
@@ -66,12 +63,6 @@ http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 tvg-id="citradrama" tvg-name="tes" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="FILM", Citra Drama
 http://gpc.my.id/vidio/citra-drama.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradrama&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="OLAHRAGA",SKY SPORTS F1
-http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="OLAHRAGA", DAZN F1
-http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="OLAHRAGA", ESPN
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
@@ -114,12 +105,15 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6686
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="OLAHRAGA", ChampionTV 3 (V)
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6786
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="OLAHRAGA",SKY SPORTS F1
+http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="OLAHRAGA", DAZN F1
+http://31.220.41.87:8081/live/es-moviestarf1.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Erz.tvrisports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLnemv7FfstDg5iW85-BQOnyI1bbcvHvhSA&usqp=CAU" group-title="OLAHRAGA",TVRI SPORTS
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 http://eroz84.wap.sh/local/tvri_sport.m3u8
-
-#EXTINF:-1 tvg-id="Erz.racing.com" tvg-id="racing.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo77lsqXqigLhbErZHWThurPEsM73yMLWQ_Q&usqp=CAU" group-title="OLAHRAGA",RACING.COM
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?id=eroz_brebes.m3u8
 
 #EXTINF:-1 tvg-id="Erz.redbulltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDQcvIAJCdTmmsLxQMSSrG-PhoNhIDdvWvA&usqp=CAU" group-title="OLAHRAGA", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?id=eroz_brebes.m3u8
@@ -127,17 +121,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?id=eroz
 #EXTINF:-1 tvg-id="Erz.ufc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbk9tcag4U9ryrBGFUMDbeBcmDCRH6wxrTBA&usqp=CAU" group-title="OLAHRAGA",UFC NETWORK
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_brebes.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg",Sky 1 Racing
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg",Sky 2 Racing
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg",EDGE SPORT HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="CHANEL LUAR NEGERI", Blue ant entertainmet
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
+
+#EXTINF:-1, group-title="DOKUMENTER" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD 
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 
 #EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="CHANEL LUAR NEGERI", Blue ant extreme
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0

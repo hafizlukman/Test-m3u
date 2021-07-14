@@ -90,11 +90,11 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", Fox Sport 1 (u)
-https://home-tv.web.id/RHS/youtubempd.m3u8?channel=foxsport1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="OLAHRAGA", Fox Sport 2 (u)
-https://home-tv.web.id/RHS/youtubempd.m3u8?channel=foxsport2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="OLAHRAGA", Fox Sport 3 (u)
-https://home-tv.web.id/RHS/youtubempd.m3u8?channel=foxsport3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="OLAHRAGA", ChampionTV 1 [v]
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6685

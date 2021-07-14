@@ -200,7 +200,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",Kompas TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
+https://streaming.useetv.com/joss/133/kompastv/playlist.m3u8?enc=3_vHa0Mfsjc2hv0kzP7cXg&exp=1626283233&encp=TUvC9nHacRsZ5TPgylRhUQ&expp=1626291933
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8

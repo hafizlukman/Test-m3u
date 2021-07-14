@@ -10,7 +10,7 @@ http://122.248.43.138:1935/ch3/myStream/live.m3u8
 http://210.210.155.35/session/7374f29e-e37e-11eb-9242-b82a72d63267/qwr9ew/s/s101/index21.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", GTV
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIxIDEyOjQ5OjA5IFBNJmhhc2hfdmFsdWU9Q3RFUlRUN1ZLMndtWDMrQTdvWTMzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NjU0OTJ8MTEwLjEzNy43NC4xNTA=
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-778
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",MNC TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-870
@@ -242,6 +242,9 @@ https://cdn-livetv-studio.metube.id/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RCTI [mv]
 https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIxIDEyOjU5OjA2IEFNJmhhc2hfdmFsdWU9NDBMU0NvckVTeTQwdFlENGJBMlVPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NjU0OTJ8MTEwLjEzNy43NC4xNTA=
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", GTV (mv)
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIxIDEyOjQ5OjA5IFBNJmhhc2hfdmFsdWU9Q3RFUlRUN1ZLMndtWDMrQTdvWTMzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NjU0OTJ8MTEwLjEzNy43NC4xNTA=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", MNC TV [v+]
 http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8

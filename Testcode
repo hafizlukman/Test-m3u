@@ -209,7 +209,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-5409
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",TVRI
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
+https://streaming.useetv.com/joss/133/tvri/playlist.m3u8?enc=tMUanZW_BrlE2Uhj8oVylA&exp=1626282840&encp=D5rNvM3SLjsoUaeCtYbjdQ&expp=1626291540
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="FILM", Galaxy Premium 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0

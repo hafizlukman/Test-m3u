@@ -89,14 +89,12 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
 #EXTINF:-1, group-title="OLAHRAGA" tvg-logo="https://telegra.ph/file/b0dce0ceef587702ca48b.png",FOX Sports 3 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1",Fox Sport 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.c0c7c76d30bd3dcaefc96f40275bdc0a.Coday" tvg-name"[CODAY] Fox Sport 2",Fox Sport 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="OLAHRAGA"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3",Fox Sport 3
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="OLAHRAGA", Fox Sport 1 (u)
+https://home-tv.web.id/RHS/youtubempd.m3u8?channel=foxsport1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="OLAHRAGA", Fox Sport 2 (u)
+https://home-tv.web.id/RHS/youtubempd.m3u8?channel=foxsport2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="OLAHRAGA", Fox Sport 3 (u)
+https://home-tv.web.id/RHS/youtubempd.m3u8?channel=foxsport3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="OLAHRAGA", ChampionTV 1 [v]
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6685

@@ -140,6 +140,30 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="DOKUMENTER",History
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 
+#EXTINF:-1, group-title="DOKUMENTER" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD 
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DOKUMENTER", BBC EARTH ID
+http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="DOKUMENTER", National Geographic 
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="DOKUMENTER", Nat Geo People
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="DOKUMENTER", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="DOKUMENTER",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="DOKUMENTER", Smithsonian
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6550
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="DOKUMENTER", Discovery Channel 
+https://home-tv.web.id/RHS/youtubempd.m3u8?channel=disco
+
 #EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="ANAK ANAK", M Kidz 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
 
@@ -220,9 +244,6 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 #EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="CHANEL LUAR NEGERI", Blue ant entertainmet
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
 
-#EXTINF:-1, group-title="DOKUMENTER" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD 
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
-
 #EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="CHANEL LUAR NEGERI", Blue ant extreme
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0
 
@@ -300,9 +321,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sy
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="FILM", IMC 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DOKUMENTER", BBC EARTH ID
-http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="ANAK ANAK", NICK (ASIA) 
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
@@ -320,15 +338,6 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHwrw4K/GEM-JUNIOR.png" group-title="ANAK ANAK",GEM Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u8
-
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="DOKUMENTER", National Geographic 
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="DOKUMENTER", Nat Geo People
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="DOKUMENTER", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="FILM", Thrill 
 http://rr2.dens.tv/s/s34/01.m3u8
@@ -353,15 +362,6 @@ http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="CHANEL LUAR NEGERI", Sony One
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
-
-#EXTINF:-1 group-title="DOKUMENTER",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="DOKUMENTER", Smithsonian
-https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6550
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="DOKUMENTER", Discovery Channel 
-https://home-tv.web.id/RHS/youtubempd.m3u8?channel=disco
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="CHANEL LUAR NEGERI",TLC
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8

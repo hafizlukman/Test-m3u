@@ -8,3 +8,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1626296148~acl=/vp9/204_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B3mCZqd/RCTI-1.png" group-title="Test group",test123
 https://streaming.useetv.com/joss/133/tvri/playlist.m3u8?enc=tMUanZW_BrlE2Uhj8oVylA&exp=1626282840&encp=D5rNvM3SLjsoUaeCtYbjdQ&expp=1626291540
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B3mCZqd/RCTI-1.png" group-title="Test group",test RCTI Vidio
+https://token-media-vidio-com.akamaized.net/exp=1626332742~acl=/uploads/2240411/*~hmac=ec17749762a5f59517a7b23a67125b1999b26e700c077364f1e00aa0839be17d/uploads/2240411/360p/index.m3u8

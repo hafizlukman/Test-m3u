@@ -170,6 +170,68 @@ http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="ANAK ANAK", Baby First 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMT1rYT/BABY-TV.png" group-title="ANAK ANAK",Baby TV
+http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
+#http://rv.imax.re:80/pP6gGMx2m4/ypcVG7N4x6/82426
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Lfqxhc/AKARAM-KIDS.png" group-title="ANAK ANAK",Akaram Kids
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-id="duniaanak" tvg-logo="https://i.postimg.cc/PJmtbJ9Y/logo-duniaanak-big1.png" group-title="ANAK ANAK",Dunia Anak
+#https://fikrulmkc.my.id/bagus/usee-duniaanak.m3u8
+#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==duniaanak&b=15&c=duniaanak
+#https://radenroro.net/RHS/homempd.m3u8?channel=duniaanak
+#http://bonev2.xyz/playlist/usee-duniaanak-new-bonetv.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qPsr3S6/Horee-Logo.jpg" group-title="ANAK ANAK",Horee!
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="ANAK ANAK", Hip Hip Horee!
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-7052
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="ANAK ANAK", Zoo Moo
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6533
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="ANAK ANAK", DaVinci
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6549
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="ANAK ANAK", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="ANAK ANAK", Aniplus 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-id="" tvg-name="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="ANAK ANAK",CARTOON NETWORK
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="ANAK ANAK", Boomerang 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
+http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="ANAK ANAK", Nick Junior
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="ANAK ANAK", Animax 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="ANAK ANAK", NICK (ASIA) 
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="ANAK ANAK", DISNEY CHANNEL (ID)
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="ANAK ANAK", DISNEY JR (ID)
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="ANAK ANAK",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQSmG9Zd/GEM-KIDS.png" group-title="ANAK ANAK",GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHwrw4K/GEM-JUNIOR.png" group-title="ANAK ANAK",GEM Junior
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="FILM", AXN 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 
@@ -250,50 +312,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&s
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="CHANEL LUAR NEGERI", Waku Waku Japan 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMT1rYT/BABY-TV.png" group-title="ANAK ANAK",Baby TV
-http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
-#http://rv.imax.re:80/pP6gGMx2m4/ypcVG7N4x6/82426
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Lfqxhc/AKARAM-KIDS.png" group-title="ANAK ANAK",Akaram Kids
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-
-#EXTINF:-1 tvg-id="duniaanak" tvg-logo="https://i.postimg.cc/PJmtbJ9Y/logo-duniaanak-big1.png" group-title="ANAK ANAK",Dunia Anak
-#https://fikrulmkc.my.id/bagus/usee-duniaanak.m3u8
-#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==duniaanak&b=15&c=duniaanak
-#https://radenroro.net/RHS/homempd.m3u8?channel=duniaanak
-#http://bonev2.xyz/playlist/usee-duniaanak-new-bonetv.m3u8
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qPsr3S6/Horee-Logo.jpg" group-title="ANAK ANAK",Horee!
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="ANAK ANAK", Hip Hip Horee!
-https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-7052
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="ANAK ANAK", Zoo Moo
-https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6533
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="ANAK ANAK", DaVinci
-https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6549
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="ANAK ANAK", Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="ANAK ANAK", Aniplus 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-id="" tvg-name="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="ANAK ANAK",CARTOON NETWORK
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="ANAK ANAK", Boomerang 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
-http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="ANAK ANAK", Nick Junior
-http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="ANAK ANAK", Animax 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="CHANEL LUAR NEGERI", Ctiasia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 
@@ -320,24 +338,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sy
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="FILM", IMC 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="ANAK ANAK", NICK (ASIA) 
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="ANAK ANAK", DISNEY CHANNEL (ID)
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="ANAK ANAK", DISNEY JR (ID)
-http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png" group-title="ANAK ANAK",EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQSmG9Zd/GEM-KIDS.png" group-title="ANAK ANAK",GEM KIDS
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHwrw4K/GEM-JUNIOR.png" group-title="ANAK ANAK",GEM Junior
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="FILM", Thrill 
 http://rr2.dens.tv/s/s34/01.m3u8

@@ -1,7 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", TRANS 7 usee
-https://cdn09jtedge.useetv.com/joss/133/trans7/chunklist_w1983303178_b894100_sleng.m3u8?enc=gPnFYQZD_BRyYKBcIChMVw&uid=&exp=1626190555
+https://cdn12jtedge.useetv.com/joss/133/trans7/chunklist_w1688138687_b894100_sleng.m3u8?enc=fZD5cbhFNMaV1ZFNSOwGTQ&uid=&exp=1626328790
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", TRANS TV usee
+https://cdn12jtedge.useetv.com/joss/133/transtv/chunklist_w39898016_b894100_sleng.m3u8?enc=gCnIVcYmpZrj-ZTy27TQjQ&uid=&exp=1626328869
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", TVRI usee
 https://cdn12jtedge.useetv.com/joss/133/tvri/chunklist_w1550424606_b1004100_sleng.m3u8?enc=wvq8EtZGIDvHf902ZRNx2w&uid=&exp=1626328574
@@ -9,5 +12,11 @@ https://cdn12jtedge.useetv.com/joss/133/tvri/chunklist_w1550424606_b1004100_slen
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", KOMPAS TV usee
 https://cdn12jtedge.useetv.com/joss/133/kompastv/chunklist_w628641033_b684100_sleng.m3u8?enc=GK3Zz7KeFyQg3aCPdO-Gqg&uid=&exp=1626328641
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", RCTI Vidio
-https://token-media-vidio-com.akamaized.net/exp=1626332742~acl=/uploads/2240411/*~hmac=ec17749762a5f59517a7b23a67125b1999b26e700c077364f1e00aa0839be17d/uploads/2240411/360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", RTV usee
+https://cdn12jtedge.useetv.com/joss/130/rtv/chunklist_w1532501295_b1004100_sleng.m3u8?enc=7JybuiHYtwEBkWzplZmOOw&uid=&exp=1626328936
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", METRO TV usee
+https://cdn12jtedge.useetv.com/joss/133/metrotv/chunklist_w605424268_b894100_sleng.m3u8?enc=cg-nIUZ04mLf3MH-kwkPLg&uid=&exp=1626328995
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", NET TV usee
+https://cdn10jtedge.useetv.com/joss/133/net/chunklist_w1356303658_b894100_sleng.m3u8?enc=u21_9mCqk31AuZhkcMmwnA&uid=&exp=1626329052

@@ -20,3 +20,6 @@ https://cdn12jtedge.useetv.com/joss/133/metrotv/chunklist_w605424268_b894100_sle
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", NET TV usee
 https://cdn10jtedge.useetv.com/joss/133/net/chunklist_w1356303658_b894100_sleng.m3u8?enc=u21_9mCqk31AuZhkcMmwnA&uid=&exp=1626329052
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", RCTI vision+
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8

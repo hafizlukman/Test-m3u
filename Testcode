@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS TV
 http://210.210.155.35/session/e667d480-e255-11eb-a1dc-c81f66f89318/x6bnqe/s/s252/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="LOKAL TV",BETV (BENGKULU)
-http://122.248.43.138:1935/ch3/myStream/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS 7
 http://210.210.155.35/session/18268c38-e4b2-11eb-b7f4-b82a72d63267/qwr9ew/s/s101/index21.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans7
 
@@ -17,15 +14,6 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-870
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",RCTI
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-665
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="DOKUMENTER",Animal Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="DOKUMENTER", Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="DOKUMENTER",History
-http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
@@ -44,6 +32,113 @@ http://nonton.wap.sh/id/001.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TV ONE 
 http://rr2.dens.tv/s/s105/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",Kompas TV
+http://210.210.155.35/session/719605e8-e505-11eb-81ff-b82a72d63267/qwr9ew/s/s104/index10.m3u8?app_type=web&userid=ho98booeadn&tkn=0LKU376XR8UHGSTZ0V46I8JVH2KK62XW&chname=Kompas_TV
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", iNEWS
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-5409
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",TVRI
+http://210.210.155.35/session/af8ef094-e505-11eb-8e17-b82a72d63267/qwr9ew/s/s11/index10.m3u8?app_type=web&userid=ho98booeadn&tkn=0LKU376XR8UHGSTZ0V46I8JVH2KK62XW&chname=TVRI
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",BERITA SATU HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
+http://gpc.my.id/vidio/beritasatu.m3u8
+
+#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg",RCTI [R+]
+https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RCTI [v+]
+http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RCTI [mt]
+https://cdn-livetv-studio.metube.id/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RCTI [mv]
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIxIDEyOjU5OjA2IEFNJmhhc2hfdmFsdWU9NDBMU0NvckVTeTQwdFlENGJBMlVPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NjU0OTJ8MTEwLjEzNy43NC4xNTA=
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", GTV (mv)
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIxIDEyOjQ5OjA5IFBNJmhhc2hfdmFsdWU9Q3RFUlRUN1ZLMndtWDMrQTdvWTMzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NjU0OTJ8MTEwLjEzNy43NC4xNTA=
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", MNC TV [v+]
+http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS TV [tm]
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS 7 [tm]
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS 7 [u]
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
+http://gpc.my.id/usee/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="LOKAL TV",BETV (BENGKULU)
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg"group-title="LOKAL TV", TV EDUKASI
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvedukasi&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/elshinta.png" group-title="LOKAL TV",ELSHINTA
+http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="LOKAL TV",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+
+#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="LOKAL TV",JAK TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="LOKAL TV",Daai TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="LOKAL TV",Mytv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="LOKAL TV",O Channel
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png" group-title="LOKAL TV",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/rri.png" group-title="LOKAL TV", RRI NET
+http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="LOKAL TV", JITV
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="LOKAL TV",Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBZNfyvT/logo-ruangtrampil-big.png" group-title="LOKAL TV",RUANG TRAMPIL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/05.m3u8
+
+#EXTINF:-1 tvg-id="eatgo" tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="LOKAL TV",EAT & GO
+#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==eatgo&b=14&c=eatgo
+#http://iptvtree.net:8080/Ainamanja/6a4fef36/264765
+#https://radenroro.net/RHS/homempd.m3u8?channel=eatgo
+#http://bonev2.xyz/playlist/usee-eatgo-new-bonetv.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="DOKUMENTER",Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="DOKUMENTER", Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="DOKUMENTER",History
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="ANAK ANAK", M Kidz 
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
@@ -199,84 +294,14 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="FILM", Galaxy
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",Kompas TV
-http://210.210.155.35/session/719605e8-e505-11eb-81ff-b82a72d63267/qwr9ew/s/s104/index10.m3u8?app_type=web&userid=ho98booeadn&tkn=0LKU376XR8UHGSTZ0V46I8JVH2KK62XW&chname=Kompas_TV
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", iNEWS
-https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-5409
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",TVRI
-http://210.210.155.35/session/af8ef094-e505-11eb-8e17-b82a72d63267/qwr9ew/s/s11/index10.m3u8?app_type=web&userid=ho98booeadn&tkn=0LKU376XR8UHGSTZ0V46I8JVH2KK62XW&chname=TVRI
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="FILM", Galaxy Premium 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="FILM", IMC 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DOKUMENTER", BBC EARTH ID
 http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA",BERITA SATU HD
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
-http://gpc.my.id/vidio/beritasatu.m3u8
-
-#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg",RCTI [R+]
-https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RCTI [v+]
-http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RCTI [mt]
-https://cdn-livetv-studio.metube.id/rcti.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", RCTI [mv]
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIxIDEyOjU5OjA2IEFNJmhhc2hfdmFsdWU9NDBMU0NvckVTeTQwdFlENGJBMlVPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NjU0OTJ8MTEwLjEzNy43NC4xNTA=
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", GTV (mv)
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIxIDEyOjQ5OjA5IFBNJmhhc2hfdmFsdWU9Q3RFUlRUN1ZLMndtWDMrQTdvWTMzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NjU0OTJ8MTEwLjEzNy43NC4xNTA=
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", MNC TV [v+]
-http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS TV [tm]
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS 7 [tm]
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26HLRrSv/LOGOHL.jpg" group-title="TV INDONESIA", TRANS 7 [u]
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
-http://gpc.my.id/usee/trans7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg"group-title="LOKAL TV", TV EDUKASI
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvedukasi&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/elshinta.png" group-title="LOKAL TV",ELSHINTA
-http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="LOKAL TV",JTV
-http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
-
-#EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="LOKAL TV",JAK TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="LOKAL TV",Daai TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="LOKAL TV",Mytv
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="ANAK ANAK", NICK (ASIA) 
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
@@ -295,9 +320,6 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHwrw4K/GEM-JUNIOR.png" group-title="ANAK ANAK",GEM Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u8
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="LOKAL TV",O Channel
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
 
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="DOKUMENTER", National Geographic 
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
@@ -328,28 +350,6 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="FILM", FOX LIFE HD
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png" group-title="LOKAL TV",JAKARTA GLOBE NEWS
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/rri.png" group-title="LOKAL TV", RRI NET
-http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="LOKAL TV", JITV
-http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="LOKAL TV",Nusantara TV
-https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBZNfyvT/logo-ruangtrampil-big.png" group-title="LOKAL TV",RUANG TRAMPIL
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/05.m3u8
-
-#EXTINF:-1 tvg-id="eatgo" tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="LOKAL TV",EAT & GO
-#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==eatgo&b=14&c=eatgo
-#http://iptvtree.net:8080/Ainamanja/6a4fef36/264765
-#https://radenroro.net/RHS/homempd.m3u8?channel=eatgo
-#http://bonev2.xyz/playlist/usee-eatgo-new-bonetv.m3u8
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="CHANEL LUAR NEGERI", Sony One
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8

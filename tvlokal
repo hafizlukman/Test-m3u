@@ -1,58 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="LOKAL GROUP", TRANS 7 usee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", TRANS 7 usee
 https://cdn12jtedge.useetv.com/joss/133/trans7/chunklist_w1688138687_b894100_sleng.m3u8?enc=fZD5cbhFNMaV1ZFNSOwGTQ&uid=&exp=1626328790
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", TRANS TV usee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", TRANS TV usee
 https://cdn12jtedge.useetv.com/joss/133/transtv/chunklist_w39898016_b894100_sleng.m3u8?enc=gCnIVcYmpZrj-ZTy27TQjQ&uid=&exp=1626328869
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", TVRI usee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", TVRI usee
 https://cdn12jtedge.useetv.com/joss/133/tvri/chunklist_w1550424606_b1004100_sleng.m3u8?enc=wvq8EtZGIDvHf902ZRNx2w&uid=&exp=1626328574
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", KOMPAS TV usee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", KOMPAS TV usee
 https://cdn12jtedge.useetv.com/joss/133/kompastv/chunklist_w628641033_b684100_sleng.m3u8?enc=GK3Zz7KeFyQg3aCPdO-Gqg&uid=&exp=1626328641
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", RTV usee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", RTV usee
 https://cdn12jtedge.useetv.com/joss/130/rtv/chunklist_w1532501295_b1004100_sleng.m3u8?enc=7JybuiHYtwEBkWzplZmOOw&uid=&exp=1626328936
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", METRO TV usee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", METRO TV usee
 https://cdn12jtedge.useetv.com/joss/133/metrotv/chunklist_w605424268_b894100_sleng.m3u8?enc=cg-nIUZ04mLf3MH-kwkPLg&uid=&exp=1626328995
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", NET TV usee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", NET TV usee
 https://cdn10jtedge.useetv.com/joss/133/net/chunklist_w1356303658_b894100_sleng.m3u8?enc=u21_9mCqk31AuZhkcMmwnA&uid=&exp=1626329052
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", RCTI vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", RCTI vision+
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", iNEWS vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", iNEWS vision+
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", MNC TV vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", MNC TV vision+
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", GTV vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", GTV vision+
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", SCTV vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", SCTV vision+
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", INDOSIAR vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", INDOSIAR vision+
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", ANTV vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", ANTV vision+
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", TV ONE vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", TV ONE vision+
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", TRANZ 7 vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", TRANZ 7 vision+
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", TRANS TV vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", TRANS TV vision+
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", METRO TV vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", METRO TV vision+
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FH2yB13M/BOOBA.jpg" group-title="LOKAL GROUP", NET TV vision+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NmzdjV7/VISION.jpg" group-title="LOKAL GROUP", NET TV vision+
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8

@@ -152,7 +152,7 @@ http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="DOKUMENTER", Nat Geo People
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/x8MvZrJR/IMG-20210303-151123.jpg" group-title="DOKUMENTER", Bisnet Adventure 4K
+#EXTINF:-1  tvg-logo="https://iconape.com/wp-content/files/gj/291830/png/biznet-logo.png" group-title="DOKUMENTER", Biznet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/02/LoveNature_logo.jpg" group-title="DOKUMENTER",Love Nature

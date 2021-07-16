@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh3NhcZj/HLIPTV.png" group-title="TV INDONESIA", Trans TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCBF6vvB/trans-tv.png" group-title="TV INDONESIA", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6HfZpW8/trans-7.png" group-title="TV INDONESIA", Trans 7
@@ -42,14 +42,14 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgv8Dm7V/inews.png" group-title="TV INDONESIA", iNEWS TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-5409
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh3NhcZj/HLIPTV.png" group-title="TV INDONESIA",TVRI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyZ6hZ3s/tvri.png" group-title="TV INDONESIA",TVRI
 http://210.210.155.35/session/af8ef094-e505-11eb-8e17-b82a72d63267/qwr9ew/s/s11/index10.m3u8?app_type=web&userid=ho98booeadn&tkn=0LKU376XR8UHGSTZ0V46I8JVH2KK62XW&chname=TVRI
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh3NhcZj/HLIPTV.png" group-title="TV INDONESIA", CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxrFxmCR/cnn.png" group-title="TV INDONESIA", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh3NhcZj/HLIPTV.png" group-title="TV INDONESIA",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXTWHYXL/cnbc.png" group-title="TV INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh3NhcZj/HLIPTV.png" group-title="TV INDONESIA",BERITA SATU HD

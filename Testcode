@@ -65,8 +65,8 @@ http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNdkjNm6/Me-Tube-Indonesia.png" group-title="TV INDONESIA", RCTI [mt]
 https://cdn-livetv-studio.metube.id/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3X7yTTJ/R.jpg" group-title="TV INDONESIA", RCTI [mvtv]
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDE6NDY6MDYgQU0maGFzaF92YWx1ZT02SWR5eWRrUml1M1hNMjBmRW9lcXFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODc2NTQ5MnwxMTAuMTM3LjczLjIwMA==
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3X7yTTJ/R.jpg" group-title="TV INDONESIA", RCTI [mv]
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDEyOjA5OjU5IFBNJmhhc2hfdmFsdWU9UU5WZ1IwK2xXRzNlaGVQNnVXWFJaZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NjU0OTJ8MTEwLjEzNy43NS4zMw==
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FH0fYzFQ/OIP.jpg" group-title="TV INDONESIA", GTV (v+)
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8

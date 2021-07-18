@@ -6,8 +6,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1626584606~acl=/hls-p/ingest_665_*
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", RCTI test vidio 2
 https://etslive-2-vidio-com.akamaized.net/exp=1626584606~acl=/hls-b/ingest_665_*/*~hmac=0dde66399ccff41011e0665b8c178d24b90b970fa1b761dc1da7ace00a2916ae/hls-b/ingest_665_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", TVRI usee
-https://cdn12jtedge.useetv.com/joss/133/tvri/chunklist_w1550424606_b1004100_sleng.m3u8?enc=wvq8EtZGIDvHf902ZRNx2w&uid=&exp=1626328574
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", METRO TV test usee 1
+https://cdn09jtedge.useetv.com/joss/133/metrotv/chunklist_w84987413_b1344100_abdurrahim_sleng.m3u8?enc=bwxZexGgTfKsUkpPnK8H8g&uid=&exp=1626589492
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", KOMPAS TV usee
 https://cdn12jtedge.useetv.com/joss/133/kompastv/chunklist_w628641033_b684100_sleng.m3u8?enc=GK3Zz7KeFyQg3aCPdO-Gqg&uid=&exp=1626328641

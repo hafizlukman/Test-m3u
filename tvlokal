@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", TRANS 7 usee1
-https://cdn09jtedge.useetv.com/joss/133/trans7/chunklist_w2045979579_b1344100_sleng.m3u8?enc=9A6rEXWD_LJ6VvnmSMfffw&uid=&exp=1626360611
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", RCTI test vidio 1
+https://etslive-2-vidio-com.akamaized.net/exp=1626584606~acl=/hls-p/ingest_665_*/*~hmac=2477be0893c7aacacd6d8a231c93a66742fff0e6e0e1b37e56129062157b6f2a/hls-p/ingest_665_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", TRANS TV usee
-https://cdn12jtedge.useetv.com/joss/133/transtv/chunklist_w39898016_b894100_sleng.m3u8?enc=gCnIVcYmpZrj-ZTy27TQjQ&uid=&exp=1626328869
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", RCTI test vidio 2
+https://etslive-2-vidio-com.akamaized.net/exp=1626584606~acl=/hls-b/ingest_665_*/*~hmac=0dde66399ccff41011e0665b8c178d24b90b970fa1b761dc1da7ace00a2916ae/hls-b/ingest_665_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjYPthX/UseeTV.png" group-title="LOKAL GROUP", TVRI usee
 https://cdn12jtedge.useetv.com/joss/133/tvri/chunklist_w1550424606_b1004100_sleng.m3u8?enc=wvq8EtZGIDvHf902ZRNx2w&uid=&exp=1626328574

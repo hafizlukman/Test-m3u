@@ -41,7 +41,7 @@ http://rr2.dens.tv/s/s105/index2.m3u8
 http://210.210.155.35/session/719605e8-e505-11eb-81ff-b82a72d63267/qwr9ew/s/s104/index10.m3u8?app_type=web&userid=ho98booeadn&tkn=0LKU376XR8UHGSTZ0V46I8JVH2KK62XW&chname=Kompas_TV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ46JFnQ/metro.png" group-title="TV INDONESIA", Metro TV
-https://cdn09jtedge.useetv.com/joss/133/metrotv/chunklist_w84987413_b1344100_abdurrahim_sleng.m3u8?enc=bwxZexGgTfKsUkpPnK8H8g&uid=&exp=1626589492
+https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgv8Dm7V/inews.png" group-title="TV INDONESIA", iNEWS TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-5409

@@ -56,31 +56,31 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXTWHYXL/cnbc.png" group-title="TV INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://i.postimg.cc/wj9MBSvn/rcti.png",RCTI [R+]
+#EXTINF:-1 group-title="TV INDONESIA" tvg-logo="https://i.postimg.cc/pTGzTfDH/rcti.png",RCTI [R+]
 https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3L7FNks/vision-plus.png" group-title="TV INDONESIA", RCTI (V+)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTGzTfDH/rcti.png" group-title="TV INDONESIA", RCTI (V+)
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXKRGQyR/metube.png" group-title="TV INDONESIA", RCTI [mt]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTGzTfDH/rcti.png" group-title="TV INDONESIA", RCTI [mt]
 https://cdn-livetv-studio.metube.id/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpz2Rw1b/mivo.png" group-title="TV INDONESIA", RCTI [mv]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTGzTfDH/rcti.png" group-title="TV INDONESIA", RCTI [mv]
 https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDEyOjA5OjU5IFBNJmhhc2hfdmFsdWU9UU5WZ1IwK2xXRzNlaGVQNnVXWFJaZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NjU0OTJ8MTEwLjEzNy43NS4zMw==
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3L7FNks/vision-plus.png" group-title="TV INDONESIA", GTV (v+)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ1fNhrM/gtv.png" group-title="TV INDONESIA", GTV (v+)
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3L7FNks/vision-plus.png" group-title="TV INDONESIA", MNC TV [v+]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvKnrNt9/mnctv.png" group-title="TV INDONESIA", MNC TV [v+]
 http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjXvhWwq/dens-tv.png" group-title="TV INDONESIA", TRANS TV (dtv)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCBF6vvB/trans-tv.png" group-title="TV INDONESIA", TRANS TV (dtv)
 http://210.210.155.35/session/470259d4-e88a-11eb-9071-b82a72d63267/x6bnqe/s/s252/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyvFrzcT/logo.jpg" group-title="TV INDONESIA", TRANS 7 [tm]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6HfZpW8/trans-7.png" group-title="TV INDONESIA", TRANS 7 [tm]
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpyQ9rg3/UseeTV.png" group-title="TV INDONESIA", TRANS 7 [u]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6HfZpW8/trans-7.png" group-title="TV INDONESIA", TRANS 7 [u]
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 http://gpc.my.id/usee/trans7.m3u8
 

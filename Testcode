@@ -4,46 +4,46 @@
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
 http://gpc.my.id/vidio/beritasatu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCBF6vvB/trans-tv.png" group-title="TV INDONESIA", Trans TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz4VKps7/transtv-hafizlukman.png" group-title="TV INDONESIA", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6HfZpW8/trans-7.png" group-title="TV INDONESIA", Trans 7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWRgYwvB/trans7-hafizlukman.png" group-title="TV INDONESIA", Trans 7
 http://210.210.155.35/session/854f17be-e767-11eb-adb6-b82a72d63267/qwr9ew/s/s101/index21.m3u8?app_type=web&userid=ho98booeadn&tkn=NETU8JS5XKSWLKP13E4IWZMDRYUCVTG8&chname=Trans7
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ1fNhrM/gtv.png" group-title="TV INDONESIA", GTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxcSNF9t/gtv-hafizlukman.png" group-title="TV INDONESIA", GTV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-778
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvKnrNt9/mnctv.png" group-title="TV INDONESIA",MNC TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/139N9Vz7/mnc-tv-hafizlukman.png" group-title="TV INDONESIA",MNC TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-870
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTGzTfDH/rcti.png" group-title="TV INDONESIA",RCTI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hsmr28bW/RCTI-hafizlukman.png" group-title="TV INDONESIA",RCTI
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-665
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQtNx66p/indosiar.png" group-title="TV INDONESIA", Indosiar
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbYTrkQ/indosiar-hafizlukman.png" group-title="TV INDONESIA", Indosiar
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzZD4cwn/sctv.png" group-title="TV INDONESIA",SCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1CzDXx6/sctv-hafizlukman.png" group-title="TV INDONESIA",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yf8fqy8/rtv.png" group-title="TV INDONESIA", RTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50mXcPS7/rajawali-hafizlukman.png" group-title="TV INDONESIA", RTV
 http://210.210.155.35/session/edab62e0-e258-11eb-bc1c-c81f66f89318/qwr9ew/s/s12/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbzzx1GW/net.png" group-title="TV INDONESIA", NET TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmK1LPtC/Net-TV-hafizlukman.png" group-title="TV INDONESIA", NET TV
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50RQ1xV9/antv.png" group-title="TV INDONESIA", ANTV 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1J092c8/antv-hafizlukman.png" group-title="TV INDONESIA", ANTV 
 http://nonton.wap.sh/id/001.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3dbrNC6/tvone.png" group-title="TV INDONESIA", TV ONE 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrfkPxdp/tvone-hafizlukman.png" group-title="TV INDONESIA", TV ONE 
 http://rr2.dens.tv/s/s105/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxts1p1z/kompas.png" group-title="TV INDONESIA",Kompas TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13gVgryX/kompas-hafizlukman.png" group-title="TV INDONESIA",Kompas TV
 http://210.210.155.35/session/719605e8-e505-11eb-81ff-b82a72d63267/qwr9ew/s/s104/index10.m3u8?app_type=web&userid=ho98booeadn&tkn=0LKU376XR8UHGSTZ0V46I8JVH2KK62XW&chname=Kompas_TV
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ46JFnQ/metro.png" group-title="TV INDONESIA", Metro TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqp9HYBh/metrotv-hafizlukman.png" group-title="TV INDONESIA", Metro TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgv8Dm7V/inews.png" group-title="TV INDONESIA", iNEWS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0Wqrb6B/inews-hafizlukman.png" group-title="TV INDONESIA", iNEWS TV
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-5409
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyZ6hZ3s/tvri.png" group-title="TV INDONESIA",TVRI

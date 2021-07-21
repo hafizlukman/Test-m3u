@@ -134,7 +134,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtvd69f0/R.png" group-title="DOKUMENTER",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="DOKUMENTER", Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmzqDXHS/wild3.png" group-title="DOKUMENTER", NatGeo WILD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prHghCs7/History-HD-Logo-svg.png" group-title="DOKUMENTER",History
@@ -146,7 +146,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DOKUMENTER", BBC EARTH ID
 http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
 
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="DOKUMENTER", National Geographic 
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="https://i.postimg.cc/ZncyQMkG/nat-geo.png" group-title="DOKUMENTER", National Geographic 
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="DOKUMENTER", Nat Geo People

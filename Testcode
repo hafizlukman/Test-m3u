@@ -71,8 +71,8 @@ https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ1fNhrM/gtv.png" group-title="TV INDONESIA", GTV (v+)
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvKnrNt9/mnctv.png" group-title="TV INDONESIA", MNC TV [v+]
-http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvKnrNt9/mnctv.png" group-title="TV INDONESIA", MNC TV (v+)
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCBF6vvB/trans-tv.png" group-title="TV INDONESIA", TRANS TV (dtv)
 http://210.210.155.35/session/470259d4-e88a-11eb-9071-b82a72d63267/x6bnqe/s/s252/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV

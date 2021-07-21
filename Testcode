@@ -296,6 +296,9 @@ http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="OLAHRAGA", bein Sport 2 
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=bein2
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="OLAHRAGA", USEE SPORTS 1 
+https://home-tv.web.id/RHS/youtubempd.m3u8?channel=useesport
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="OLAHRAGA"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2",USEE SPORTS 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
